@@ -9,3 +9,6 @@ qemu-playground
 
 ### Wasm
 - https://github.com/qemu/qemu/compare/master...discere-os:qemu.wasm:wasm
+
+### Compilation
+- https://ithelp.ithome.com.tw/m/articles/10323509
