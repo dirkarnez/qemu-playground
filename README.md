@@ -9,9 +9,12 @@ qemu-playground
 
 ### Extensions
 - https://github.com/ahoeller/fies
+- https://airbus-seclab.github.io/qemu_blog/tcg_p3.html
 
 ### Wasm
 - https://github.com/qemu/qemu/compare/master...discere-os:qemu.wasm:wasm
 
 ### Compilation
 - https://ithelp.ithome.com.tw/m/articles/10323509
+- https://www.iotsec-zone.com/article/157
+- https://www.qemu.org/docs/master/devel/build-system.html
