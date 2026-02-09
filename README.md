@@ -18,3 +18,6 @@ qemu-playground
 - https://ithelp.ithome.com.tw/m/articles/10323509
 - https://www.iotsec-zone.com/article/157
 - https://www.qemu.org/docs/master/devel/build-system.html
+
+### Baremetal
+- [ghaflims/cortex-a9: qemu cortex-a9 vexpress-a9 arm](https://github.com/ghaflims/cortex-a9)
