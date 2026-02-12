@@ -4,6 +4,7 @@ services:
     container_name: qemu
     environment:
       BOOT: "mint"
+      BOOT_MODE: "legacy" # "uefi"
     devices:
       - /dev/kvm
       - /dev/net/tun
