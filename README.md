@@ -7,6 +7,10 @@ qemu-playground
 - [micro-os-plus/hello-world-qemu-template-xpack: A template to generate semihosted Hello World projects that run on QEMU](https://github.com/micro-os-plus/hello-world-qemu-template-xpack)
 - [实验二：Qemu 模拟器启动 ArceOS，打印 Hello，world - raspi4-with-arceos-doc](https://chenlongos.com/raspi4-with-arceos-doc/chapter_1.2.html)
 
+### Tools
+- [`qemus.sh`](./qemus.sh), [`docker-compose.yml`](./docker-compose.yml)
+  - [qemus/qemu: QEMU in a Docker container.](https://github.com/qemus/qemu)
+
 ### Extensions
 - https://github.com/ahoeller/fies
 - https://airbus-seclab.github.io/qemu_blog/tcg_p3.html
